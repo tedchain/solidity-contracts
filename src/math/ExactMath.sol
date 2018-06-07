@@ -40,7 +40,7 @@ library ExactMath {
     }
 
     // Calculates and returns 'self + other'
-    // The function will throw if the operation would result in an over/underflow.
+    // The function will throw if the operation would result in an over/underflow
     function exactAdd(int self, int other) internal pure returns (int sum) {
         sum = self + other;
         if (self > 0 && other > 0) {
