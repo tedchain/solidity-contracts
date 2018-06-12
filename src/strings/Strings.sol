@@ -7,7 +7,7 @@ import {Memory} from "../unsafe/Memory.sol";
 
 library Strings {
 
-    // Key bytes.
+    // Key bytes
     // http://www.unicode.org/versions/Unicode10.0.0/UnicodeStandard-10.0.pdf
     // Table 3-7, p 126, Well-Formed UTF-8 Byte Sequences
 
