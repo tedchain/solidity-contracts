@@ -8,7 +8,7 @@ import {PatriciaTreeFace} from "./PatriciaTreeFace.sol";
 
 
 /*
- * Patricia tree implementation.
+ * Patricia tree implementation
  *
  * More info at: https://github.com/chriseth/patricia-trie
  */
